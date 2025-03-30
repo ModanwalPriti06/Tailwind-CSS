@@ -40,3 +40,9 @@
   
 ## Note:
 Whenever we changing anything in index.html or input.css file the we have to rerun this script(thing added 3 line in input.css file) again and again. for that what we can do it, we can instead add a watch flag.
+
+---
+# Classes
+
+1. bg-slate-900
+2. 
