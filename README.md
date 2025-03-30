@@ -45,4 +45,5 @@ Whenever we changing anything in index.html or input.css file the we have to rer
 # Classes
 
 1. bg-slate-900
-2. 
+2. text- sm/base/lg/xl/2xl
+3. 
