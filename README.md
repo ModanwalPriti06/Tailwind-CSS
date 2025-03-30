@@ -14,7 +14,7 @@
     - @tailwind components;
     - @tailwind utilities;
 - Run CLI in terminal - npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
- (Here this terminal commond define run input from src/input.css and output in output.css which is creating file automatic based on cli path)
+ (Here this terminal commond define run input from src/input.css and output in output.css which is creating file automatic based on cli path. watch work like nodeman no need to run terminal again and again)
 - add package.json and run npm run build
 ```
    "scripts": {
