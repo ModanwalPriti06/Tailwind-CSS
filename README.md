@@ -46,4 +46,28 @@ Whenever we changing anything in index.html or input.css file the we have to rer
 
 1. bg-slate-900
 2. text- sm/base/lg/xl/2xl
-3. 
+3. grid
+4. place-content-center
+5. h-screen = come in center based on size
+6. p-6
+7. h-20
+8. w-20
+9. mx-w-sm
+10. bg-white
+11. rounded-xl
+12. shadow-lg
+13. flex
+14. items-center
+15. space-x-4
+16. font-medium
+
+## Focus and hover classes
+1. hover:bg-white
+2. hover:text-black
+3. dark:bg-pink-500
+
+## Mobile responsive
+-  <p class="text-white sm:text-red-600 md:text-green-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente veritatis minima et aut aliquam error!</p>
+- The above paragraph means white apply on last scrren, sm- scrren sm or greater sm = red, md- screen md or larger md = green color apply
+  
+
